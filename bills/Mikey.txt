@@ -1,0 +1,6 @@
+Bill brakdown: 
+pie:                      ...$5.99 
+cake:                     ...$3.99 
+juice:                    ...$4.99 
+Tip:                      ...$4.00
+Total:                    ...$18.97
